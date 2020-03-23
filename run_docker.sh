@@ -3,7 +3,7 @@
 ## Complete the following steps to get Docker running locally
 
 # Step 1:
-docker build --tag=machinelearning-predection .
+docker build --t udacity-project4 .
 
 # Step 2: 
 docker image ls 
