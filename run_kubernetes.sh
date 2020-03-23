@@ -8,7 +8,7 @@ dockerpath=aarafat56/udacity-project4
 
 # Step 2
 
-kubectl run --generator=run-pod/v1 --image=$dockerpath  machinelearning-predection
+kubectl run --generator=run-pod/v1 --image=$dockerpath  udacity-project4
 
 # Step 3:
 kubectl get pods
